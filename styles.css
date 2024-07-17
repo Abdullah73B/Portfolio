@@ -1,0 +1,8 @@
+body {
+    background-color: #1288ff;
+}
+
+.portfolio-item img {
+    margin-bottom: 15px;
+    cursor: pointer;
+}
